@@ -5,4 +5,4 @@ So I might as well do what i can, and get this shit deployed
 Testing in prod, testing in prod  
 Testing in prod, testing in prod  
 
-(*With sincere apologies to Judas Priest*)
+[*With sincere apologies to Judas Priest*](https://www.youtube.com/watch?v=L397TWLwrUU)
