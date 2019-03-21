@@ -1,7 +1,7 @@
-#Venomous snakes; avoiding mistakes
+# Venomous snakes; avoiding mistakes
 (sorry)
 
-##Coral snakes: the really easy ones
+## Coral snakes: the really easy ones
 North American coral snakes (*Micrurus* and *Micruroides* sp.) and their lookalikes
 have a handy--though varied--mnemonic of the form:  
 >red on yellow kill a fellow \<or other rhyming implication of death\>;   
@@ -16,8 +16,8 @@ And one of its several lookalikes, the (harmless) scarlet kingsnake (*Lampropelt
 
 That's it (within North America.)
 
-##The rest: Still not too hard, mostly
-####Head shape 1: folklore that's actually pretty right...
+## The rest: Still not too hard, mostly
+#### Head shape 1: folklore that's actually pretty right...
 With a few exceptions, the old saying that venomous snakes have distinctly triangular, spear, spade, or shovel shaped heads
 is pretty accurate, although it does rely on getting a good look at the snake's head.   
 Contrast the black ratsnake (nonvenomous)  
@@ -31,7 +31,7 @@ With these juvenile and adult copperheads (venomous)
  and the cottonmouth  
  ![cottonmouth]  
 
-####Head shape 2: ...except when it's not
+#### Head shape 2: ...except when it's not
 The head shape "rule" notably breaks down with our friends the watersnakes, *Nerodia* sp.: Heavy bodied, variably colored, 
 brown on brown-and can flatten their heads out to appear larger
 ![nerodia_sipeodon]
@@ -48,9 +48,9 @@ Ratsnake (exhibiting head flattening posture)
 Racer  
 ![juvenile_racer]    
 Copperhead (again)  
-![copperhead_2] 
-(and again)
-![copperhead_3]
+![copperhead_2]  
+(and again)  
+![copperhead_3]  
 Despite the copperhead species being rather variable in patterning, looking for dark "hershey kisses" shapes on lighter background 
 along its sides as opposed to the dorsal blotching both racer and ratsnake hatchlings exhibit, and the blotching-banding 
 we saw in the watersnake earlier
